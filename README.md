@@ -16,7 +16,7 @@ Step 2: Locate to directory
 $ /carmen-sandiego/Carmen_Sandiego
 ```
 
-Step 3: Compile by issusing the following command
+Step 3: Compile by issuing the following command
 
 ```
 $ g++ -std=c++11 carmen_sandiego.cpp Game.cpp Player.cpp Hacker.cpp BestBuy.cpp Map.cpp
